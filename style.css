@@ -1,0 +1,48 @@
+.container{
+    max-width: 1000px;
+}
+.container h3{
+    text-align: center;
+margin: 20px 0px;
+}
+body{
+    
+    /* background: linear-gradient(to right, #304760, #304C6A); */
+    
+    font-family: 'Cormorant Garamond', serif;
+    background: #4B79A1;  
+background: -webkit-linear-gradient(to right, #283E51, #4B79A1); 
+background: linear-gradient(to right, #283E51, #4B79A1);
+color: white;
+    
+
+
+}
+.colour{
+    color: rgb(17, 0, 255);
+}
+.red{
+    color: #ff0202a6;
+    font-size: 1rem;
+    position: relative;
+   
+    right: 10px;
+}
+
+.navbar-brand{
+    color: #d8d1d1;
+}
+.nav-link{
+    color: #d8d1d1;
+}
+
+.accordion-body{
+    color: black;
+}
+.foot{
+    font-weight: 100;
+letter-spacing: 0.123em;
+font-size: 0.9rem;
+color: #d0d0d0;
+padding: 20px 0px;
+}
